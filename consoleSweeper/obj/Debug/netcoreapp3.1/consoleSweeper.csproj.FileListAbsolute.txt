@@ -1,0 +1,4 @@
+C:\Users\clara.mahlgard\Documents\GitHub\ConsoleSweeper\consoleSweeper\obj\Debug\netcoreapp3.1\consoleSweeper.csprojAssemblyReference.cache
+C:\Users\clara.mahlgard\Documents\GitHub\ConsoleSweeper\consoleSweeper\obj\Debug\netcoreapp3.1\consoleSweeper.AssemblyInfoInputs.cache
+C:\Users\clara.mahlgard\Documents\GitHub\ConsoleSweeper\consoleSweeper\obj\Debug\netcoreapp3.1\consoleSweeper.AssemblyInfo.cs
+C:\Users\clara.mahlgard\Documents\GitHub\ConsoleSweeper\consoleSweeper\obj\Debug\netcoreapp3.1\consoleSweeper.csproj.CoreCompileInputs.cache
